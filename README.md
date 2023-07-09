@@ -21,7 +21,7 @@ For more detailed usage instructions, please refer to the [documentation](docs/)
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to CityMesh, please follow the guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
+Contributions are welcome! If you'd like to contribute to CityMesh, please follow the guidelines outlined in [CONTRIBUTING.md](CityMesh/docs/CONTRIBUTING.md).
 
 ## License
 
